@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-user-service/cloud-user-service.iml" filepath="$PROJECT_DIR$/cloud-user-service/cloud-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stockmarket.iml" filepath="$PROJECT_DIR$/stockmarket.iml" />
+    </modules>
+  </component>
+</project>
